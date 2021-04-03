@@ -155,3 +155,6 @@ if (var === 'howdy') {
 - [Vue-cli配置](https://seminelee.github.io/2017/07/09/webpack-2/)
 
 Copyright (c) 2016-present, 拙心网络
+
+
+本项目所属公司已解散，在项目经理及公司的许可下带出学习，不涉及机密。
